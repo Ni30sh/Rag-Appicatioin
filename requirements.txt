@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+
+# Install pyarrow first (pre-built wheel) before chromadb to avoid build errors
+pyarrow>=14.0.0
+chromadb
+langchain-groq
+python-dotenv
+typesense
+streamlit
